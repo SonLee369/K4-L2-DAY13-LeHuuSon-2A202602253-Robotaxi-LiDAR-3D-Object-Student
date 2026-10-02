@@ -35,3 +35,9 @@ K4-DAY13-*/
 !data/ATTRIBUTION.md
 !data/LICENSE.txt
 student-bundles/
+
+# VLearn submission: only the two filled Markdown files under report/K4-DAY13-<TeamName>/.
+!report/K4-DAY13-*/
+report/K4-DAY13-*/*
+!report/K4-DAY13-*/TEAMMATES.md
+!report/K4-DAY13-*/PRE-LABEL-REPORT.md
